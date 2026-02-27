@@ -63,6 +63,14 @@ export const projects = [
     iconLists: "/fm.svg",
     link: "https://www.figma.com/design/S2oup0o1fPhvFKuxsbYh2g/Wireframe-for-a-Product?node-id=0-1&t=L49yfANXgeFVdvcK-1",
   },
+  {
+    id: 4,
+    title: "New Profile Page",
+    des: "Redesigned profile page for current work company using Figma, focusing on improving user experience and visual appeal.",
+    img: "/profilepage.PNG",
+    iconLists: "/fm.svg",
+    link: "https://www.figma.com/design/UVIacDj7eFNMS9710QtNff/Profile-page-recreation?node-id=0-1&t=BQp8efpxxGmiAc0g-1",
+  }
 ];
 
 export const testimonials = [
